@@ -1,0 +1,5 @@
+@baseUrl = https://localhost:7086/api
+@probability = /Probability
+@name = CalculateProbability
+POST {{baseUrl}}/{{probability}}/{{name}}
+####
